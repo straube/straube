@@ -35,7 +35,7 @@ If we ever talk, I'm happy to go into more detail where it makes sense and where
 
 Over time I've learned that how we work matters as much as what we build.
 
-- Prefer small, senior-leaning teams with clear ownership
+- Prefer small teams with clear ownership
 - Start from "what problem are we solving for whom?" before choosing tech
 - Write things down so we don't have the same argument every week
 - Keep architecture honest by staying close to the code and the incidents
