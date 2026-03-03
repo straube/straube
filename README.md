@@ -7,7 +7,7 @@
 
 I'm Gustavo, a Brazilian software engineer who likes hard problems with real users on the other side.
 
-I've spent almost two decades helping teams ship and evolve products, mostly around backend and platform work.
+I've spent more than two decades helping teams ship and evolve products, mostly around backend and platform work.
 
 These days, I care less about buzzwords and more about whether what we build actually makes the product better.
 
