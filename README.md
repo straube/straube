@@ -54,9 +54,6 @@ If your world looks like that, we'll probably have good conversations. ☕
 
 ## Elsewhere and contact
 
-If you want to see more of the "work" side of me:
+If you want to see more of the "work" side of me, check out my profile on LinkedIn: [linkedin.com/in/gustavostraube/](https://linkedin.com/in/gustavostraube/).
 
-- GitHub: [github.com/straube](https://github.com/straube)
-- LinkedIn: [linkedin.com/in/gustavostraube/](https://linkedin.com/in/gustavostraube/)
-
-For anything else (opportunities, questions, or just to say hi), feel free to reach out via LinkedIn.
+For anything (opportunities, questions, or just to say hi), feel free to reach out there on LinkedIn.
