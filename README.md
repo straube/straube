@@ -27,5 +27,3 @@ The work I'm best at tends to look like this:
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/gustavostraube/)
-
-For anything (opportunities, questions, or just to say hi), feel free to reach out there on LinkedIn.
