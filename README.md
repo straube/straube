@@ -1,59 +1,31 @@
 # Gustavo Straube
-**Staff Software Engineer · Backend & Platform**
 
-🌐 Curitiba, Brazil · Working remotely with distributed teams
+**Staff/Senior Backend Engineer - APIs & Platform**
 
-## Hello 👋
+🌐 Remote from Curitiba, Brazil · working with US teams
 
-I'm Gustavo, a Brazilian software engineer who likes hard problems with real users on the other side.
+Python · TypeScript/Node · PHP · AWS (Lambda, EventBridge, Firehose, S3, Batch, CDK) · Kafka · Postgres · MongoDB · GraphQL<br />
+AWS Certified DevOps Engineer
 
-I've spent more than two decades helping teams ship and evolve products, mostly around backend and platform work.
+## What I work on
 
-These days, I care less about buzzwords and more about whether what we build actually makes the product better.
+Backend and platform systems for products with real load behind them. Recently: a transportation data platform aggregating ~200 telematics integrations at Catena, and mileage telemetry processing millions of events daily at MileIQ.
 
-## What I do
+The work I'm best at tends to look like this:
 
-I design and build backend and platform systems that other people can rely on. That usually means understanding the product first, then picking the simplest architecture that will survive reality.
+- Rebuilding a 30-day, multi-million-event aggregation after scheduled Lambdas couldn't finish inside the 15-minute execution limit. The AWS Batch scaffolding became the standard for long-running jobs on the team.
+- Designing a phased path out of a legacy monolith, rerouting traffic into domain services without breaking existing endpoints.
+- Extending a read-only public API into write-back across every integrated provider, with a schema that stayed consistent regardless of what sat downstream.
 
-I enjoy work that sits at the intersection of:
+## How I work
 
-- Product backends and APIs
-- Data and infrastructure that quietly stay up
-- Helping teams go from "we could" to "we shipped"
+- Understand the product before choosing the architecture.
+- Write decisions down. I introduced an RFC process at Catena. 20+ have been written by other engineers since.
+- Stay close to the code and the incidents. On-call is where architecture gets audited.
+- AI tooling is part of my daily loop for implementation, review, and debugging. I'm interested in teams treating that as an engineering practice rather than a novelty.
 
-## A few things I'm proud of
+## Contact
 
-These aren't full case studies, more like postcards from past projects.
-
-- Helped modernize a legacy product while it was actively used, reducing fragile "don't touch that" areas and letting the team ship features again.
-- Worked on high-traffic systems where latency and reliability weren't abstract metrics, but things users actually noticed.
-- Built internal tools and small platforms that removed manual work and gave engineers more time to solve real problems.
-
-If we ever talk, I'm happy to go into more detail where it makes sense and where I'm allowed to share.
-
-## How I like to work
-
-Over time I've learned that how we work matters as much as what we build.
-
-- Prefer small teams with clear ownership
-- Start from "what problem are we solving for whom?" before choosing tech
-- Write things down so we don't have the same argument every week
-- Keep architecture honest by staying close to the code and the incidents
-
-I'm comfortable jumping between design, implementation, and talking to non‑engineers about trade-offs.
-
-## What I'm currently interested in
-
-This might change, but at the moment I'm drawn to:
-
-- Backend and platform work with real impact on a product or business
-- Modernization and migration efforts where you can't just "rewrite it in peace"
-- Mentoring junior/mid-level engineers and helping them grow into senior roles
-
-If your world looks like that, we'll probably have good conversations. ☕
-
-## Elsewhere and contact
-
-If you want to see more of the "work" side of me, check out my profile on LinkedIn: [linkedin.com/in/gustavostraube/](https://linkedin.com/in/gustavostraube/).
+[LinkedIn](https://linkedin.com/in/gustavostraube/)
 
 For anything (opportunities, questions, or just to say hi), feel free to reach out there on LinkedIn.
